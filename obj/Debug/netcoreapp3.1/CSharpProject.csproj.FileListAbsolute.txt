@@ -1,0 +1,14 @@
+C:\Users\u6072771\source\repos\CSharpProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\u6072771\source\repos\CSharpProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\u6072771\source\repos\CSharpProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\u6072771\source\repos\CSharpProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\u6072771\source\repos\CSharpProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\u6072771\source\repos\CSharpProject\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\u6072771\source\repos\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.deps.json
+C:\Users\u6072771\source\repos\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.dll
+C:\Users\u6072771\source\repos\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.pdb
+C:\Users\u6072771\source\repos\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.AssemblyInfoInputs.cache
+C:\Users\u6072771\source\repos\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.AssemblyInfo.cs
+C:\Users\u6072771\source\repos\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\u6072771\source\repos\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.dll
+C:\Users\u6072771\source\repos\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.pdb
