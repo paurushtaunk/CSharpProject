@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nSIfmdzOH3fzwUWEBUJmheG+NsivPttj4tDYVHw5CVCg+mijqvmWVE6AmrjlTk4HhHnEQmPScxUHLDqjqbww3g==",
+  "dgSpecHash": "ZwUypi9qs6xNKOs2fpj7GUztWzNd1cbrrlC61Qw8XOEGT34kmV2tMEySAxFQJNsCjjtw5GbfPL6UCBWfJ7Urww==",
   "success": true,
   "projectFilePath": "C:\\Users\\u6072771\\source\\repos\\CSharpProject\\CSharpProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\u6072771\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\u6072771\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\u6072771\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\u6072771\\.nuget\\packages\\nunit.consolerunner\\3.12.0\\nunit.consolerunner.3.12.0.nupkg.sha512",
     "C:\\Users\\u6072771\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
   ],
   "logs": []
